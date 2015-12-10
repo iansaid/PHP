@@ -34,21 +34,21 @@
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
-                    <a href="http://localhost:8080/PaginaEjemplo/principal.php">
+                    <a href="http://localhost/PaginaEjemplo/principal.php">
                         Pagina Principal
                     </a>
                 </li>
                 <li>
-                   <a href="http://localhost:8080/PaginaEjemplo/altasdocente.php">Altas Docente</a>
+                   <a href="http://localhost/PaginaEjemplo/altasdocente.php">Altas Docente</a>
                 </li>
                 <li>
-                    <a href="http://localhost:8080/PaginaEjemplo/altasalumno.php">Altas Alumno</a>
+                    <a href="http://localhost/PaginaEjemplo/altasalumno.php">Altas Alumno</a>
                 </li>
                 <li>
                     <a href="#">Altas Asignatura</a>
                 </li>
                 <li>
-                    <a href="http://localhost:8080/PaginaEjemplo/horario.php">Cargar Horario</a>
+                    <a href="http://localhost/PaginaEjemplo/horario.php">Cargar Horario</a>
                 </li>
                 <li>
                     <a href="#">About</a>
