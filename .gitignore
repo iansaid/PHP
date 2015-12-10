@@ -45,7 +45,7 @@
                     <a href="http://localhost:8080/PaginaEjemplo/altasalumno.php">Altas Alumno</a>
                 </li>
                 <li>
-                    <a href="#">Altas Materias</a>
+                    <a href="#">Altas Asignatura</a>
                 </li>
                 <li>
                     <a href="http://localhost:8080/PaginaEjemplo/horario.php">Cargar Horario</a>
